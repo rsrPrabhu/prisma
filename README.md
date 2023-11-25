@@ -28,7 +28,7 @@ This Project is a demo project with technologies involved  Next JS 13 , NextJS A
 Here's why:
 * Get to know the Prisma 
 * Database table structure with Prisma 
-* Table relationship b using Prisma
+* Table relationship by using Prisma
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
