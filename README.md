@@ -23,20 +23,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This Project is a demo project of technologies involved , Next JS13 , NextJS API , Next Auth , Mongo DB
+This Project is a demo project with technologies involved  Next JS 13 , NextJS API , Next Auth and Mongo DB
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+* Get to know the Prisma 
+* Database table structure with Prisma 
+* Table relationship b using Prisma
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 ### Built With
 
